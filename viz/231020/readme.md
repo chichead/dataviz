@@ -1,7 +1,7 @@
 ---
 title: scatter plot
 date: '2023-10-20'
-categories: ['line']
+categories: ['scatter']
 ---
 
 ## Suicide Bombings in Israel (1990-2020)
